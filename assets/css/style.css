@@ -350,14 +350,14 @@ h1, h2, h3, h4, h5, h6 {
 #hero h2 {
   color: #000;
   margin-bottom: 30px;
-  font-size: 14px;
-  font-weight: 400;
+  font-size: 22px;
+  font-weight: 550;
   text-transform: uppercase;
 }
 #hero .btn-get-started {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
   display: inline-block;
@@ -460,7 +460,7 @@ section {
 }
 .services .icon-box p {
   font-size: 15px;
-  color: #959595;
+  color: #000;
   margin-left: 60px;
 }
 .services .image {
@@ -546,7 +546,7 @@ section {
 }
 .why-us .content p {
   font-size: 15px;
-  color: #959595;
+  color: #000;
 }
 .why-us .video-box {
   background-size: cover;
